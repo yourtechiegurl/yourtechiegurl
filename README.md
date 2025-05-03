@@ -21,8 +21,7 @@ I'm 17, broke, and building something real before college starts.
 - Git & GitHub
 
 ## 📝 Follow My Journey
-- [Blog on Hashnode]([https://your-link-here.com](https://yourtechiegurl.hashnode.dev
-))
+- [Blog on Hashnode](https://yourtechiegurl.hashnode.dev)
 - [Dev.to Posts](https://dev.to/yourtechiegurl)
 
 ---
